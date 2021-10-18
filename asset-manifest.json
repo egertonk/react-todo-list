@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/egertonk/react-todo-list/static/css/main.c64b6c03.chunk.css",
-    "main.js": "/egertonk/react-todo-list/static/js/main.9f419602.chunk.js",
-    "main.js.map": "/egertonk/react-todo-list/static/js/main.9f419602.chunk.js.map",
-    "runtime-main.js": "/egertonk/react-todo-list/static/js/runtime-main.8cb3da7e.js",
-    "runtime-main.js.map": "/egertonk/react-todo-list/static/js/runtime-main.8cb3da7e.js.map",
-    "static/js/2.fa900afb.chunk.js": "/egertonk/react-todo-list/static/js/2.fa900afb.chunk.js",
-    "static/js/2.fa900afb.chunk.js.map": "/egertonk/react-todo-list/static/js/2.fa900afb.chunk.js.map",
-    "index.html": "/egertonk/react-todo-list/index.html",
-    "static/css/main.c64b6c03.chunk.css.map": "/egertonk/react-todo-list/static/css/main.c64b6c03.chunk.css.map",
-    "static/js/2.fa900afb.chunk.js.LICENSE.txt": "/egertonk/react-todo-list/static/js/2.fa900afb.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.c64b6c03.chunk.css",
+    "main.js": "/static/js/main.9f419602.chunk.js",
+    "main.js.map": "/static/js/main.9f419602.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.438c267f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.438c267f.js.map",
+    "static/js/2.fa900afb.chunk.js": "/static/js/2.fa900afb.chunk.js",
+    "static/js/2.fa900afb.chunk.js.map": "/static/js/2.fa900afb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c64b6c03.chunk.css.map": "/static/css/main.c64b6c03.chunk.css.map",
+    "static/js/2.fa900afb.chunk.js.LICENSE.txt": "/static/js/2.fa900afb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cb3da7e.js",
+    "static/js/runtime-main.438c267f.js",
     "static/js/2.fa900afb.chunk.js",
     "static/css/main.c64b6c03.chunk.css",
     "static/js/main.9f419602.chunk.js"
