@@ -13,6 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -41,5 +42,8 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
